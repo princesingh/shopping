@@ -1,5 +1,11 @@
 # shopping
 
-    this is simple shopping project that help you to compare the price between flipkart and amazon
-    and also you can purchase product from registered retail shop.
-    
+This is simple shopping website completely based on LAMP technology.
+The main aim of this project is to fetch the result from flikart and amazon and display the result.
+And also it allow filtering, comparing product based on keywords.
+
+#technology used
+Server - Apache WAMPP
+server side scripting - php
+Front End - HTML, CSS, JavaScript
+and most communication between server and client is handling through AJAX
