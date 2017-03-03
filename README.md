@@ -9,3 +9,8 @@ Server - Apache WAMPP
 server side scripting - php
 Front End - HTML, CSS, JavaScript
 and most communication between server and client is handling through AJAX
+API - flipkart and amazon
+
+#Drawback
+API might not work because I hava cancelled my flipkart and amazon account,
+You can replace your API id instead of my id.
