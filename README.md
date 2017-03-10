@@ -1,5 +1,7 @@
 # shopping
 
+Simple Ecommerce Website For MUlTI MARKETING.
+
 This is simple shopping website completely based on LAMP technology.
 The main aim of this project is to fetch the result from flikart and amazon and display the result.
 And also it allow filtering, comparing product based on keywords.
